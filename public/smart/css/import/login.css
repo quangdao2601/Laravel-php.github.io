@@ -1,0 +1,139 @@
+.login .form-login {
+    width: 700px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.login .form-login #email,
+.login .form-login #password,
+.login .form-login button {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.login .form-login label {
+    margin-bottom: 10px;
+}
+
+.login .form-login button {
+    background: cornflowerblue;
+    color: cornsilk;
+}
+
+.login .form-login button:hover {
+    background: darkturquoise;
+}
+
+
+/* đăng ký */
+
+.reg .form-reg {
+    width: 700px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.reg .form-reg #email,
+.reg .form-reg #password,
+.reg .form-reg #name,
+.reg .form-reg #password-confirm,
+.reg .form-reg button {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.reg .form-reg label {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.reg .form-reg button {
+    background: cornflowerblue;
+    color: cornsilk;
+}
+
+.reg .form-reg button:hover {
+    background: darkturquoise;
+}
+
+
+/* quên mật khẩu */
+
+.reset .form-reset {
+    width: 700px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.reset .form-reset #email,
+.reset .form-reset #password,
+.reset .form-reset #password-confirm,
+.reset .form-reset button {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.reset .form-reset label {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.reset .form-reset button {
+    background: cornflowerblue;
+    color: cornsilk;
+}
+
+.reset .form-reset button:hover {
+    background: darkturquoise;
+}
+
+
+/* đổi mật khẩu
+ */
+
+.forget-pass .form-fp {
+    width: 700px;
+    margin: 0px auto;
+    padding: 10px;
+}
+
+.forget-pass .form-fp #email,
+.forget-pass .form-fp button {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 100%;
+}
+
+.forget-pass .form-fp label {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.forget-pass .form-fp button {
+    background: cornflowerblue;
+    color: cornsilk;
+}
+
+.forget-pass .form-fp button:hover {
+    background: darkturquoise;
+}
+
+.verified {
+    width: 700px;
+    margin: 0px auto;
+    padding: 10px;
+    color: black;
+}
+
+.verified .btn-kh {
+    background: #b2dba1;
+    border: none;
+    padding: 10px;
+}
